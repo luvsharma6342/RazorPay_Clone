@@ -1222,16 +1222,16 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\/images\/feature-section-2BG\.svg\)\] {
-  background-image: url(/images/feature-section-2BG.svg);
+.bg-\[url\(feature-section-2BG\.svg\)\] {
+  background-image: url(feature-section-2BG.svg);
 }
 
-.bg-\[url\(\/images\/CTABg\.svg\)\] {
-  background-image: url(/images/CTABg.svg);
+.bg-\[url\(CTABg\.svg\)\] {
+  background-image: url(CTABg.svg);
 }
 
-.bg-\[url\(\/images\/core-features-sectionBg\.svg\)\] {
-  background-image: url(/images/core-features-sectionBg.svg);
+.bg-\[url\(core-features-sectionBg\.svg\)\] {
+  background-image: url(core-features-sectionBg.svg);
 }
 
 .bg-cover {
